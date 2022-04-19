@@ -1,0 +1,3 @@
+P-H - Tchounga - Kengni
+
+Database Access Object: Couche d'abstraction pour la connexion à la BDD.

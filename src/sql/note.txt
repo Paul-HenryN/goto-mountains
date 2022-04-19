@@ -1,0 +1,6 @@
+Yann - Duval
+
+Toutes les requêtes sql
+- Création des tables;
+- Suppression des tables;
+- Procédures stockées;
